@@ -1,1 +1,4 @@
 .idea/
+lum-alfa/.vscode/
+lum-alfa/env/
+*.iml
